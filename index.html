@@ -176,10 +176,10 @@
     <script>
 
 
-      async function fetchClimatizadores() {
-    const response = await fetch('https://meu-backend.onrender.com/climatizadores');
-    return response.json();
-}
+     async function fetchClimatizadores() {
+            const response = await fetch('/climatizadores');
+            return response.json();
+        }
 
         function renderChart(data) {
             const ctx = document.getElementById('stockChart').getContext('2d');
