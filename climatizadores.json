@@ -1,0 +1,16 @@
+[
+  {
+    "modelo": "EXAUSTOR BEX 30",
+    "codigo": "02121",
+    "notaFiscal": "5255582",
+    "descricao": "modulo",
+    "status": "Testado"
+  },
+  {
+    "modelo": "BRIZZ MAX 70",
+    "codigo": "PRD02025",
+    "notaFiscal": "5255582",
+    "descricao": "modulo",
+    "status": "Testado"
+  }
+]
